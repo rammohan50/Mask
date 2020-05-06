@@ -7,4 +7,5 @@ beans
 pizza
 chicken fry
 
-tesla
+
+biriyani added 
