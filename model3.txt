@@ -3,4 +3,8 @@ welcome to model3
 
 modely
 
+beans
+pizza
+chicken fry
+
 tesla
