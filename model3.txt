@@ -15,3 +15,7 @@ tesla
 
 could have fine copy 
 
+i am still learning github
+
+i am still learning java technology and aws and springboot and j2ee and web services 
+
